@@ -5,6 +5,8 @@
   - Full-stack dev
   - Reverse engineering
   - Native of any platform
+- Get in touch:
+  - l2a1knla#gmail.com
 
 <!---
 hatsune-miku/hatsune-miku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
