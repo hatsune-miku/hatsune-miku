@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @hatsune-miku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I LOVE PROGRAMMING
+- Resume: (TODO)
+- Looking for positions of:
+  - Full-stack dev
+  - Reverse engineering
+  - Native of any platform
+- 🇨🇦
 
 <!---
 hatsune-miku/hatsune-miku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
