@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hatsune-miku
 - I LOVE PROGRAMMING
 - Resume: (TODO)
-- Looking for positions of:
+- Looking for position of:
   - Full-stack dev
   - Reverse engineering
   - Native of any platform
